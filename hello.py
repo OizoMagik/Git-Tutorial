@@ -1,3 +1,3 @@
 print ("Hello, World")
 print("My name is Ana")
-print ("My favorite color is Blue")
+print ("My favorite color is Red")
